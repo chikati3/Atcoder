@@ -1,2 +1,2 @@
 ## Atcoder
- #AtCoder Beginner Contestの勉強をしていこうと思います。
+ # AtCoder Beginner Contestの勉強をしていこうと思います。
